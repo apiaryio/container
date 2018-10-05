@@ -25,7 +25,7 @@
 #include "propagate_allocator_test.hpp"
 #include "container_common_tests.hpp"
 #include "emplace_test.hpp"
-#include "../../intrusive/test/iterator_test.hpp"
+#include <iterator_test.hpp>
 
 #include <map>
 

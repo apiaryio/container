@@ -31,7 +31,7 @@
 #include "vector_test.hpp"
 #include "default_init_test.hpp"
 #include <boost/core/no_exceptions_support.hpp>
-#include "../../intrusive/test/iterator_test.hpp"
+#include <iterator_test.hpp>
 
 using namespace boost::container;
 

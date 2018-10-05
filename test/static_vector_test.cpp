@@ -13,7 +13,7 @@
 #include <boost/container/vector.hpp>
 #include <boost/container/stable_vector.hpp>
 #include <boost/container/detail/iterator.hpp>
-#include "../../intrusive/test/iterator_test.hpp"
+#include <iterator_test.hpp>
 
 #include <vector>
 #include <list>

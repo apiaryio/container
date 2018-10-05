@@ -25,7 +25,7 @@
 #include "propagate_allocator_test.hpp"
 #include "default_init_test.hpp"
 #include "comparison_test.hpp"
-#include "../../intrusive/test/iterator_test.hpp"
+#include <iterator_test.hpp>
 #include <boost/utility/string_view.hpp>
 #include <boost/core/lightweight_test.hpp>
 
