@@ -19,7 +19,7 @@
 #include "map_test.hpp"
 #include "propagate_allocator_test.hpp"
 #include "emplace_test.hpp"
-#include "../../intrusive/test/iterator_test.hpp"
+#include <iterator_test.hpp>
 
 using namespace boost::container;
 
